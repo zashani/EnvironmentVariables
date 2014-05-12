@@ -1,1 +1,2 @@
+name 'EnvironmentVariables'
 depends 'phantomjs'
